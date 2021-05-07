@@ -1,6 +1,6 @@
 # PaytmLabs SDE Challenge
 
-**For the coding question, the runtime is O(1) and the space complexity is O(n) where n is the number of elements added. This implementation allows for dynamic changing of N meaning that we can easily call getMovingAverageOf the last 2,3,4,5..etc without drastically harming the performance complexity.**
+**For the coding question, the runtime is O(1) and the space complexity is O(n) where n is the number of elements added. This implementation allows for dynamic changing of N meaning that we can easily call getMovingAverageOf the last 2,3,4,5..etc while keeping O(1) runtime complexity for that function**
 
 **For the design question, please see the diagram**
 
