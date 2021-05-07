@@ -1,5 +1,7 @@
 # PaytmLabs SDE Challenge
 
+For the coding question, the runtime is O(1) and the space complexity is O(n) where n is the number of elements added. This implementation allows for dynamic changing of N meaning that we can easily call getMovingAverageOf the last 2,3,4,5..etc without drastically harming the performance complexity. 
+
 ## Coding Question
 
 Write an interface for a data structure that can provide the moving average of the last N elements added, add elements to the structure and get access to the elements. Provide an efficient implementation of the interface for the data structure.
